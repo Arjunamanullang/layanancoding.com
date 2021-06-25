@@ -1,0 +1,11 @@
+.box{
+	padding:30px 40px;
+	border-radius:6px;
+}
+footer{
+	padding:30px 10px;
+	text-align:center;
+	background-color:#036EFF;
+	height:80px;
+	color: #fff;
+}
